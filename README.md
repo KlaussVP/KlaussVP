@@ -1,13 +1,13 @@
 ### Hi there! I'm Klauss! 👋
 
-<h2>I'm extremely motivated to ignite my career by contributing as much as I can with relevant and impactating projects.</h2>
+<h2>I'm extremely motivated to continuously improving my skills by contributing as much as I can with relevant and impactating projects.</h2>
 
 <h3>For now this is where I am:</h3>
 
 - 🔭 I’m currently working on a stock consulting platform in a private project while improve my programming knowledge and working on finishing my Control and Automation Engineering degree. I'm also in the process of assembling my repositories with all the projects that I already did.
-- 🌱 I’m currently learning more about deploy services and data processing.
+- 🌱 I’m currently learning more about CI/CD and automated deploy with Kubernetes and Rancher.
 - 💬 Come ask me about whatever! I'd love the chat! 
-- ⚡ Among my upcoming learning intentions are: NEXTjs, Angularjs, Python, PHP and Java.
+- ⚡ Among my upcoming learning intentions are: PHP, Java and .NET Framework.
 
 <h3 style="text-align: left;">As far as social media goes, you can find me in these:</h3>
 <p style="text-align: left;">
