@@ -4,7 +4,6 @@
 
 <h3>For now this is where I am:</h3>
 
-- 🔭 I’m currently working on a stock consulting platform in a private project while improve my programming knowledge and working on finishing my Control and Automation Engineering degree. I'm also in the process of assembling my repositories with all the projects that I already did.
 - 🌱 I’m currently learning more about CI/CD and automated deploy with Kubernetes and Rancher.
 - 💬 Come ask me about whatever! I'd love the chat! 
 - ⚡ Among my upcoming learning intentions are: PHP, Java and .NET Framework.
