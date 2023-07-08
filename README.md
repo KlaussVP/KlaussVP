@@ -1,23 +1,24 @@
-### Hi there! I'm Klauss! 👋
+# Hi there! I'm Klauss! 👋
 
 <h2>I'm extremely motivated to continuously improving my skills by contributing as much as I can with relevant and impactating projects.</h2>
 
 <h3>For now this is where I am:</h3>
 
-- 🌱 I’m currently learning more about CI/CD and automated deploy with Kubernetes and Rancher.
+- 👨‍💻 Graduated at Control and Automation Engineering;
+- 🌱 I’m currently exploring more about NestJS to create RESTful API's with typescript, and learning more about CI/CD and automated deploy with Kubernetes and Rancher;
 - 💬 Come ask me about whatever! I'd love the chat! 
 - ⚡ Among my upcoming learning intentions are: PHP, Java and .NET Framework.
 
 <h3 style="text-align: left;">As far as social media goes, you can find me in these:</h3>
 <p style="text-align: left;">
-  <a href="https://linkedin.com/in/klauss-corrêa-601435151" target="blank" color="FFFFFF">
-    <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="klaussVP" height="30" width="40" />
+  <a href="https://linkedin.com/in/klauss-corrêa-601435151" target="blank">
+    <img style="text-align: center;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="klaussVP" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/klauss17" target="blank" color="FFFFFF">
-    <img style="text-align: center;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="klaussVP" height="30" width="40" />
+  <a href="https://instagram.com/klauss17" target="blank">
+    <img style="text-align: center;" src="https://icongr.am/simple/instagram.svg?size=40&color=cb2d76&colored=false" alt="klaussVP" height="30" width="40" />
   </a>
 </p>
-<h3 style="text-align: left;">These are some languages and tools I've worked with:</h3>
+<h3 style="text-align: left;">These are some tools and languages I've worked with:</h3>
 <p style="text-align: left;">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
